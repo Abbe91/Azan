@@ -1,0 +1,51 @@
+{
+  "common": {
+    "prayerTimes": "Bönetider",
+    "quran": "Koranen",
+    "hadith": "Hadith",
+    "asmaAllah": "Allahs namn",
+    "azkarDua": "Dhikr & Dua",
+    "installApp": "Installera appen",
+    "search": "Sök",
+    "bookmarks": "Bokmärken",
+    "settings": "Inställningar"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Soluppgång",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "nextPrayer": "Nästa bön",
+    "qiblaDirection": "Qibla-riktning"
+  },
+  "quranPage": {
+    "title": "Den Heliga Koranen",
+    "searchPlaceholder": "Sök sura...",
+    "savedVerses": "Sparade verser",
+    "verse": "Vers",
+    "surah": "Sura",
+    "playSurah": "Spela sura",
+    "stopSurah": "Stoppa sura"
+  },
+  "hadithPage": {
+    "title": "Hadith-samling",
+    "subtitle": "Profetiska traditioner och uttalanden",
+    "searchPlaceholder": "Sök hadith...",
+    "narrator": "Berättad av",
+    "source": "Källa",
+    "chapter": "Kapitel",
+    "grade": "Grad"
+  },
+  "azkarDuaPage": {
+    "title": "Daglig Dhikr & Dua",
+    "subtitle": "Islamiska åkallelser",
+    "categories": {
+      "morning": "Morgon",
+      "evening": "Kväll",
+      "afterPrayer": "Efter bön",
+      "beforeSleep": "Före sömn"
+    }
+  }
+}

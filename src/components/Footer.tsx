@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export function Footer() {
   return (
@@ -39,7 +39,18 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 text-center">
-          <p>&copy; {new Date().getFullYear()} Islamic Hub . All rights reserved to centrum-foralla.se</p>
+          <p>
+            &copy; {new Date().getFullYear()} Islamic Hub . All rights reserved
+            to{" "}
+            <a
+              href="https://centrum-foralla.se"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-emerald-400 hover:text-emerald-300 transition-colors"
+            >
+              centrum-foralla.se
+            </a>
+          </p>
         </div>
       </div>
     </footer>

@@ -1,0 +1,51 @@
+{
+  "common": {
+    "prayerTimes": "مواقيت الصلاة",
+    "quran": "القرآن الكريم",
+    "hadith": "الحديث",
+    "asmaAllah": "أسماء الله الحسنى",
+    "azkarDua": "أذكار ودعاء",
+    "installApp": "تثبيت التطبيق",
+    "search": "بحث",
+    "bookmarks": "المفضلة",
+    "settings": "الإعدادات"
+  },
+  "prayers": {
+    "fajr": "الفجر",
+    "sunrise": "الشروق",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء",
+    "nextPrayer": "الصلاة القادمة",
+    "qiblaDirection": "اتجاه القبلة"
+  },
+  "quranPage": {
+    "title": "القرآن الكريم",
+    "searchPlaceholder": "البحث في السور...",
+    "savedVerses": "الآيات المحفوظة",
+    "verse": "آية",
+    "surah": "سورة",
+    "playSurah": "تشغيل السورة",
+    "stopSurah": "إيقاف السورة"
+  },
+  "hadithPage": {
+    "title": "الأحاديث النبوية",
+    "subtitle": "السنة النبوية والأحاديث الشريفة",
+    "searchPlaceholder": "البحث في الأحاديث...",
+    "narrator": "الراوي",
+    "source": "المصدر",
+    "chapter": "الباب",
+    "grade": "الدرجة"
+  },
+  "azkarDuaPage": {
+    "title": "الأذكار والأدعية",
+    "subtitle": "الأذكار والأدعية اليومية",
+    "categories": {
+      "morning": "أذكار الصباح",
+      "evening": "أذكار المساء",
+      "afterPrayer": "أذكار بعد الصلاة",
+      "beforeSleep": "أذكار النوم"
+    }
+  }
+}

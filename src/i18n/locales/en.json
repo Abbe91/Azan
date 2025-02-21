@@ -1,0 +1,51 @@
+{
+  "common": {
+    "prayerTimes": "Prayer Times",
+    "quran": "Quran",
+    "hadith": "Hadith",
+    "asmaAllah": "Asma Allah",
+    "azkarDua": "Azkar & Dua",
+    "installApp": "Install App",
+    "search": "Search",
+    "bookmarks": "Bookmarks",
+    "settings": "Settings"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "nextPrayer": "Next Prayer",
+    "qiblaDirection": "Qibla Direction"
+  },
+  "quranPage": {
+    "title": "The Holy Quran",
+    "searchPlaceholder": "Search Surah...",
+    "savedVerses": "Saved Verses",
+    "verse": "Verse",
+    "surah": "Surah",
+    "playSurah": "Play Surah",
+    "stopSurah": "Stop Surah"
+  },
+  "hadithPage": {
+    "title": "Hadith Collection",
+    "subtitle": "Prophetic Traditions and Sayings",
+    "searchPlaceholder": "Search hadith...",
+    "narrator": "Narrated by",
+    "source": "Source",
+    "chapter": "Chapter",
+    "grade": "Grade"
+  },
+  "azkarDuaPage": {
+    "title": "Daily Azkar & Dua",
+    "subtitle": "Islamic Supplications",
+    "categories": {
+      "morning": "Morning",
+      "evening": "Evening",
+      "afterPrayer": "After Prayer",
+      "beforeSleep": "Before Sleep"
+    }
+  }
+}

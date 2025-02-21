@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Arabic font */
+@font-face {
+  font-family: "Amiri";
+  src: url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap");
+}
+
+/* RTL Support */
+[dir="rtl"] {
+  font-family: "Amiri", sans-serif;
+}
+
+/* Default LTR */
+[dir="ltr"] {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Utility classes */
+.font-arabic {
+  font-family: "Amiri", sans-serif;
+}

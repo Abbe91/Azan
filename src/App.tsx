@@ -1,17 +1,19 @@
-import React from 'react';
-import { Routes, Route } from 'react-router-dom';
-import { Header } from './components/Header';
-import { Footer } from './components/Footer';
-import { PrayerTimes } from './pages/PrayerTimes';
-import { Quran } from './pages/Quran';
-import { Hadith } from './pages/Hadith';
-import { AsmaAllah } from './pages/AsmaAllah';
-import { AzkarDua } from './pages/AzkarDua';
-import { InstallGuide } from './pages/InstallGuide';
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+import { Header } from "./components/Header";
+import { Footer } from "./components/Footer";
+import { PrayerTimes } from "./pages/PrayerTimes";
+import { Quran } from "./pages/Quran";
+import { Hadith } from "./pages/Hadith";
+import { AsmaAllah } from "./pages/AsmaAllah";
+import { AzkarDua } from "./pages/AzkarDua";
+import { InstallGuide } from "./pages/InstallGuide";
+import { PalestinePopup } from "./components/PalestinePopup";
 
 function App() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
+      <PalestinePopup />
       <Header />
       <main className="flex-1">
         <Routes>
