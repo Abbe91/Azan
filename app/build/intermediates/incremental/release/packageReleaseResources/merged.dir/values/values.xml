@@ -3,7 +3,7 @@
     <bool name="enableNotification">true</bool>
     <bool name="enableSiteSettingsShortcut">true</bool>
     <color name="backgroundColor">#FFFFFF</color>
-    <color name="colorPrimary">#059669</color>
+    <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">#000000</color>
     <color name="navigationColor">#000000</color>
     <color name="navigationColorDark">#000000</color>
@@ -11,7 +11,7 @@
     <color name="navigationDividerColorDark">#000000</color>
     <color name="shortcut_background">#F5F5F5</color>
     <integer name="splashScreenFadeOutDuration">300</integer>
-    <string name="appName" translatable="false">Islamic Hub</string>
+    <string name="appName" translatable="false">Islamic Prayer Times</string>
     <string name="assetStatements">
     [{
         \"relation\": [\"delegate_permission/common.handle_all_urls\"],
@@ -26,8 +26,8 @@
     <string name="fullScopeUrl" translatable="false">https://islamichpro.netlify.app/</string>
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
     <string name="hostName" translatable="false">islamichpro.netlify.app</string>
-    <string name="launchUrl" translatable="false">https://islamichpro.netlify.apphttps://islamichpro.netlify.app/</string>
-    <string name="launcherName" translatable="false">Islamic Hub</string>
+    <string name="launchUrl" translatable="false">https://islamichpro.netlify.app/</string>
+    <string name="launcherName" translatable="false">Prayer Times</string>
     <string name="orientation" translatable="false">default</string>
     <string name="providerAuthority" translatable="false">app.netlify.islamichpro.twa.fileprovider</string>
     <string name="webManifestUrl" translatable="false">https://islamichpro.netlify.app/manifest.json</string>
