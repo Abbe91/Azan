@@ -12,14 +12,6 @@ export function PalestinePopup() {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-70">
       <div className="bg-white rounded-lg shadow-xl max-w-2xl w-full mx-4 relative overflow-hidden">
-        <div className="relative h-[400px]">
-          <img
-            src="public/flag.jpg"
-            alt="Palestine Flag in Smoke"
-            className="w-full h-full object-cover"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent"></div>
-        </div>
         <div className="relative p-6 bg-gradient-to-t from-black to-transparent">
           <p className="text-4xl font-arabic text-white text-center mb-4 drop-shadow-lg">
             اللهم انصر فلسطين
