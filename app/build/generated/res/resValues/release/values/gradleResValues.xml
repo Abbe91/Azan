@@ -34,7 +34,7 @@
     <!-- Value from default config. -->
     <string name="hostName" translatable="false">islamichpro.netlify.app</string>
     <!-- Value from default config. -->
-    <string name="launchUrl" translatable="false">https://islamichpro.netlify.apphttps://islamichpro.netlify.app/</string>
+    <string name="launchUrl" translatable="false">https://islamichpro.netlify.app/</string>
     <!-- Value from default config. -->
     <string name="launcherName" translatable="false">Islamic Hub</string>
     <!-- Value from default config. -->

@@ -26,7 +26,7 @@
     <string name="fullScopeUrl" translatable="false">https://islamichpro.netlify.app/</string>
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
     <string name="hostName" translatable="false">islamichpro.netlify.app</string>
-    <string name="launchUrl" translatable="false">https://islamichpro.netlify.apphttps://islamichpro.netlify.app/</string>
+    <string name="launchUrl" translatable="false">https://islamichpro.netlify.app/</string>
     <string name="launcherName" translatable="false">Islamic Hub</string>
     <string name="orientation" translatable="false">default</string>
     <string name="providerAuthority" translatable="false">app.netlify.islamichpro.twa.fileprovider</string>
